@@ -1,0 +1,35 @@
+{
+  "bank_name": "Global",
+  "location": "ktm",
+
+
+  "Employee": [{
+    "name": "ram",
+    "address": "ktm",
+    "position": "manager"
+  },
+    {
+    "name": "ram",
+    "address": "ktm",
+    "position": "manager"
+  } ,
+    {
+    "name": "ram",
+    "address": "ktm",
+    "position": "manager"
+  },
+    {
+    "name": "ram",
+    "address": "ktm",
+    "position": "manager"
+  },
+
+    {
+      "name": "ram",
+      "address": "ktm",
+      "position": "manager"
+
+    }]
+
+
+    }
